@@ -15,7 +15,7 @@ import org.apache.http.params.BasicHttpParams;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import com.witheyjr.TheTweetsOfJames.R;
+import com.witheyjr.TheTweetsOf.R;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
