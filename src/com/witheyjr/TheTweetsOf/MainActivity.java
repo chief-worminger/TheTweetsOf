@@ -35,8 +35,8 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-	final String URL = "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=rahrahyah&include_rts=1";
-	final String picURL = "https://api.twitter.com/1.1/users/show.json?screen_name=rahrahyah";
+	final String URL = "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=tradewavenet&include_rts=1";
+	final String picURL = "https://api.twitter.com/1.1/users/show.json?screen_name=tradewavenet";
 	final String APIKEY = "INSERT YOUR API KEY HERE";
 	final String APISECRET = "INSERT YOUR API SECRET HERE";
 	
