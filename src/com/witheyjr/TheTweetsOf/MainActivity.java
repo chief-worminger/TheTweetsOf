@@ -15,8 +15,11 @@ import org.apache.http.params.BasicHttpParams;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+<<<<<<< HEAD
 import com.witheyjr.TheTweetsOf.R;
 
+=======
+>>>>>>> f0873eeda2ea11a13058304db1ba895ab5d36747
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -35,8 +38,8 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-	final String URL = "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=rahrahyah&include_rts=1";
-	final String picURL = "https://api.twitter.com/1.1/users/show.json?screen_name=rahrahyah";
+	final String URL = "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=tradewavenet&include_rts=1";
+	final String picURL = "https://api.twitter.com/1.1/users/show.json?screen_name=tradewavenet";
 	final String APIKEY = "INSERT YOUR API KEY HERE";
 	final String APISECRET = "INSERT YOUR API SECRET HERE";
 	
