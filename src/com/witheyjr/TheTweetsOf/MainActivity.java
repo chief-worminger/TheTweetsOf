@@ -15,11 +15,8 @@ import org.apache.http.params.BasicHttpParams;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-<<<<<<< HEAD
 import com.witheyjr.TheTweetsOf.R;
 
-=======
->>>>>>> f0873eeda2ea11a13058304db1ba895ab5d36747
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.graphics.Bitmap;
